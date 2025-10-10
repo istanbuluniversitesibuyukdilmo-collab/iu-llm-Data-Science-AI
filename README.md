@@ -74,6 +74,7 @@ Kullanılan veri seti: [House Prices - Advanced Regression Techniques (Kaggle)](
 * [Seaborn Documentation](https://seaborn.pydata.org/)
 * [Scikit-learn Feature Engineering Guide](https://scikit-learn.org/stable/modules/feature_selection.html)
 * [Matplotlib User Guide](https://matplotlib.org/stable/users/index.html)
+* [House Prices %1 Çözümünün Notebook Örnegi](https://www.kaggle.com/code/jesucristo/1-house-prices-solution-top-1)
 
 ---
 

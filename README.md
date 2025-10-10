@@ -1,4 +1,4 @@
-# 🏛️ **İÜLLM Takımı Etkinlik Raporu**
+# 🏛️ **İÜLLM Takımı Etkinlik ile Alakalı Kaynaklar**
 
 **Tarih:** 10/10/2025
 **Saat:** 16.00 - 18.00

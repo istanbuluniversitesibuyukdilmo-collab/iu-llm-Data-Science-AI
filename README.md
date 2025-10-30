@@ -18,7 +18,7 @@ Ayrıca **Gemini CLI** gibi localde çalışan LLM (Large Language Model) aracı
 
 * Prompt Engineering nedir?
 * Context Engineering kavramı
-* Local modeller (Gemini CLI, Ollama, LM Studio vb.)
+* Local modeller (Ollama,LLaMA 3, Mistral, Gemma  vb.)
 * Prompt yapısının model performansına etkisi
 
 ### 📚 Kaynaklar
